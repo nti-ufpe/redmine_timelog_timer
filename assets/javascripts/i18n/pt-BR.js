@@ -6,5 +6,5 @@ $.timerlog_timer_i18n = {
 	actionMerge: 'Adicionar com a atual',
 	remove: 'Parar e remover',
 	openForm: 'Abrir formulÃ¡rio',
-	removeConfirm: 'Tem certeza?'
+	removeConfirm: 'Você realmente deseja excluir?'
 };
